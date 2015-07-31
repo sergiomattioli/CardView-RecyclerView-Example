@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardViewRecyclerView</string>
+    <string name="desc_person_photo">Photo</string>
+</resources>
